@@ -1,5 +1,6 @@
 {
-    "name": "goldesel/deppenapostroph",
+    "name": "gdmobile/deppenapostroph",
+    "license": "MIT",
     "type": "library",
     "require": {},
     "require-dev": {
